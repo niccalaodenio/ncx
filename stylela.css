@@ -16,7 +16,7 @@ body{
 }
 main .login-form{
     padding: 30px 50px;
-    height: auto; 
+    height: 550px; 
     width: 400px;
     background-color: rgb(255, 255, 255);
     overflow: hidden;
@@ -96,8 +96,8 @@ main .login-form{
 @media only screen and (max-width:650px){
 
     body{
-        height: auto;
-        width: auto;
+        height: 100%;
+        width: 100%;
         display: grid;
         place-items: center;
         justify-self: center;
@@ -107,7 +107,7 @@ main .login-form{
 
     main .login-form{
         width: 100%;
-        min-height: 750px;
+        min-height: 787px;
         border-radius: 0px;
     }
     .bgi{
