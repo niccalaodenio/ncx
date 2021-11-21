@@ -107,7 +107,7 @@ main .login-form{
 
     main .login-form{
         width: 100%;
-        min-height: 490px;
+        min-height: 668px;
         border-radius: 0px;
     }
     .bgi{
@@ -124,6 +124,7 @@ main .login-form{
         place-items: center;
         margin-bottom: 24px;
         padding: 10px;
+        width: 300px
     }
     .logo_container img{
         height: 60px;
